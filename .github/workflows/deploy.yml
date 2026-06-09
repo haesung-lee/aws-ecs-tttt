@@ -22,7 +22,7 @@ on:
 
 jobs:
   build-and-push:
-#    environment: prod
+    environment: prod
     runs-on: ubuntu-latest
     permissions:
       contents: read
