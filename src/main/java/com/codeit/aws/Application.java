@@ -12,5 +12,6 @@ public class Application {
         SpringApplication.run(Application.class, args);
         System.out.println("http://localhost:8080/");
         System.out.println("API: http://localhost:8080/api/files");
+        System.out.println("!!");
     }
 }

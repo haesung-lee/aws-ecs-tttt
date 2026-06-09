@@ -1,4 +1,4 @@
-# ecr ecs 실습
+# ecr ecs 실습   
 
 # awscli 설치
 # mac - https://awscli.amazonaws.com/AWSCLIV2.pkg
